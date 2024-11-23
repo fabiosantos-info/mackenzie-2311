@@ -36,7 +36,8 @@ MBA em DevOps Engineering and Cloud Solutions
 
 ```sh
 sudo apt update
-pip3 install pydot graphviz
+pip install pydot>=1.2.4
+sudo apt-get install graphviz
 ```
 
 ## Anotações de aula
